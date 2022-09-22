@@ -1,4 +1,4 @@
-# P-gina-Web-en-Wordpress-con-Azure
+# Pagina-Web-en-Wordpress-con-Azure
 Creación de página web en Wordpress con Microsoft Azure
 
 En el navegador nos dirigimos a portal.azure.com
